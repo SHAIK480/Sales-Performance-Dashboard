@@ -35,8 +35,10 @@ An end-to-end business intelligence solution built as part of a Data Analyst ass
 > 
 > Example:
 > ```
-> ![Executive Overview](screenshots/executive-overview.png)
-> ![Regional Analysis](screenshots/regional-analysis.png)
+> ![Regional Performance](Screenshots/Regional_Performance.png)
+> ![Returns & Delays](Screenshots/Returns&Delays.png)
+> ![Key Insights](Screenshots/Key_Insights.png)
+> ![Data Model](Screenshots/Data-Model_view.png)
 > ```
 
 ---
