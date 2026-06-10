@@ -88,7 +88,6 @@ Key measures developed:
 
 ```
 📁 sales-performance-dashboard/
-├── DA_Assignment.pbix        # Power BI report file
 ├── README.md                 # Project documentation
 └── screenshots/              # Dashboard page screenshots
     ├── executive-overview.png
@@ -101,8 +100,8 @@ Key measures developed:
 
 ## Notes
 
-- The **dataset is not included** — it was provided as part of a confidential assessment.
-- The `.pbix` file can be opened in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
+- The **dataset is not included**
+- The daashboards are made using Power BI - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
 - All DAX measures and data model design are original work.
 
 ---
