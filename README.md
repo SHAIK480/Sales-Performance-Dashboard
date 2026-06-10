@@ -32,14 +32,22 @@ An end-to-end business intelligence solution built as part of a Data Analyst ass
 
 ## Screenshots
 
-> 
-> Example:
-> ```
-> ![Regional Performance](Screenshots/Regional_Performance.png)
-> ![Returns & Delays](Screenshots/Returns&Delays.png)
-> ![Key Insights](Screenshots/Key_Insights.png)
-> ![Data Model](Screenshots/Data-Model_view.png)
-> ```
+## Dashboard Preview
+
+### Sales Performance Dashboard
+![Sales Performance Dashboard](Screenshots/Sales_Performance_dashboard.png)
+
+### Regional Performance
+![Regional Performance](Screenshots/Regional_Performance.png)
+
+### Returns & Delays
+![Returns & Delays](Screenshots/Returns&Delays.png)
+
+### Key Insights
+![Key Insights](Screenshots/Key_Insights.png)
+
+## Data Model
+![Data Model](Screenshots/Data-Model_view.png)
 
 ---
 
@@ -103,4 +111,4 @@ Key measures developed:
 
 **Mohammad Maheer Shaik**  
 B.Tech CSE | RGUKT (IIIT) Nuzvid  
-[LinkedIn](https://linkedin.com/in/your-link) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/mohammad-maheer-shaik-9a517b252/) • [GitHub](https://github.com/SHAIK480)
